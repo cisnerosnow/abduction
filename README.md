@@ -1,14 +1,6 @@
 # 🛸 Abduction
 
-```
-     🛸
-    /   \
-   /_____\
-  |  ◉ ◉  |
-  |   ∩   |
-   \  ∨  /
-    \___/
-```
+![Abduction Logo](logo.png)
 
 Un descargador de videos de TikTok simple y eficiente.
 
